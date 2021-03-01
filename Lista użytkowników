@@ -1,0 +1,48 @@
+<!DOCTYPE HTML>
+<html lang="pl" >
+
+<head>
+ <meta charset= "utf-8" />
+ <title>Lista użytkowników:</title>
+ 
+ 
+	 
+	 <style>
+h1 { color: black }
+h3 { color: #333399 }
+h1 {text-align: center }
+h3 {text-align: justify }
+h3 {text-indent: 16cm }
+h1 {background-color: fuchsia }
+
+body {
+ background: #9999CC top left repeat-y;
+}
+h1 {border-top-style: double }
+h1 {border-bottom-style: double }
+h1 {border-left-style: double }
+h1 {border-right-style: double }
+</style>
+ </head>
+<body>
+
+
+<h1>*LISTA UŻYTKOWNIKÓW*</h1>
+<h3>Użytkownik 1: <form action="...">
+	<textarea name="nazwa" cols="x" rows="y">Imię i nazwisko</textarea>
+</form></h2> <br/><br/>
+<h3>Użytkownik 2: <form action="...">
+	<textarea name="nazwa" cols="x" rows="y">Imię i nazwisko</textarea>
+</form></h3> <br/><br/>
+<h3>Użytkownik 3: <form action="...">
+	<textarea name="nazwa" cols="x" rows="y">Imię i nazwisko</textarea>
+</form></h4> <br/><br/>
+<h3>Użytkownik 4: <form action="...">
+	<textarea name="nazwa" cols="x" rows="y">Imię i nazwisko</textarea>
+</form></h5> <br/><br/>
+<h3>Użytkownik 5: <form action="...">
+	<textarea name="nazwa" cols="x" rows="y">Imię i nazwisko</textarea>
+</form></h6> 
+
+ </body>
+</html>
